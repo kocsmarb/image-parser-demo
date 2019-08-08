@@ -7,3 +7,5 @@ In the project directory, you can run:
 > `npm start`
 
 > `npm run build`
+
+## [Demo](http://image-parser-demo.surge.sh/)
